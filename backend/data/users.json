@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Admin User",
+    "email": "admin@edunavigator.com",
+    "password": "$2a$10$/cBCYTNnbj3WUQPiACh8TOwQ9jWg4LOq4y37VjZJ49QK3iCzzyRuG",
+    "role": "admin"
+  },
+  {
+    "name": "Test Student",
+    "email": "student@gmail.com",
+    "password": "$2a$10$/cBCYTNnbj3WUQPiACh8TOwQ9jWg4LOq4y37VjZJ49QK3iCzzyRuG",
+    "role": "student"
+  }
+]

@@ -1,0 +1,68 @@
+:root {
+  --primary: #4b0d80;
+  --secondary: #7c55b1;
+  --light-bg: #f7f4fc;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--light-bg);
+}
+
+/* Navbar */
+.navbar {
+  background: var(--primary);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 40px;
+  font-size: 18px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+/* Page Container */
+.page {
+  padding: 40px;
+  max-width: 1100px;
+  margin: auto;
+}
+
+/* === SCHOLARSHIPS PAGE === */
+.scholarships-page {
+  padding: 30px;
+  background: #f8f5fa;
+  min-height: 100vh;
+}
+
+.scholarship-card {
+  background: white;
+  padding: 18px;
+  margin: 14px 0;
+  border-left: 5px solid #6a0dad;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.08);
+}
+
+/* === CAREER GUIDE PAGE === */
+.career-guide-page {
+  padding: 30px;
+  background: #eef2ff;
+  min-height: 100vh;
+}
+
+.career-card {
+  background: white;
+  padding: 18px;
+  margin: 14px 0;
+  border-left: 5px solid #4a00b4;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.08);
+}
+

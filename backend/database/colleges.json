@@ -1,0 +1,46 @@
+[
+  {
+    "name": "PES University",
+    "city": "Bengaluru",
+    "ranking": 1,
+    "fees": 500000,
+    "examsAccepted": ["PESSAT", "KCET", "JEE Mains"],
+    "image": "https://i.imgur.com/4ZQZ4Qe.jpeg",
+    "overview": "PES University is one of the top engineering institutions in India.",
+    "facilities": ["Library", "Hostel", "Labs", "Sports Complex", "Gym"],
+    "placementData": [
+      {"branch": "CSE", "avgPackage": 16},
+      {"branch": "ECE", "avgPackage": 13},
+      {"branch": "ME", "avgPackage": 9},
+      {"branch": "Civil", "avgPackage": 7}
+    ]
+  },
+  {
+    "name": "Shiv Nadar University",
+    "city": "Chennai",
+    "ranking": 23,
+    "fees": 400000,
+    "examsAccepted": ["JEE Mains", "SNUSAT"],
+    "image": "https://i.imgur.com/zk7VZKJ.jpeg",
+    "overview": "Shiv Nadar University is known for research-driven education.",
+    "facilities": ["Library", "Labs", "Sports Complex", "Hostel"],
+    "placementData": [
+      {"branch": "CSE", "avgPackage": 12},
+      {"branch": "ECE", "avgPackage": 10}
+    ]
+  },
+  {
+    "name": "BITS Pilani",
+    "city": "Pilani",
+    "ranking": 7,
+    "fees": 700000,
+    "examsAccepted": ["BITSAT"],
+    "image": "https://i.imgur.com/XCbTQBd.png",
+    "overview": "BITS Pilani is one of the most prestigious engineering institutions in India.",
+    "facilities": ["Library", "Hostel", "Labs", "Sports Complex"],
+    "placementData": [
+      {"branch": "CSE", "avgPackage": 18},
+      {"branch": "ECE", "avgPackage": 14}
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+.exam-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.exam-search-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.exam-search {
+  width: 400px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #aaa;
+}
+
+.exam-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+
+.exam-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.exam-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 16px;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.exam-btn:hover {
+  background: #360060;
+}

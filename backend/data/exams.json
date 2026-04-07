@@ -1,0 +1,42 @@
+[
+  {
+    "examId": "pessat",
+    "name": "PESSAT",
+    "conductingBody": "PES University",
+    "level": "University Level",
+    "eligibility": ["Minimum 60% in PCM", "No state restrictions"],
+    "subjects": [
+      { "subject": "Mathematics", "questions": 30 },
+      { "subject": "Physics", "questions": 30 },
+      { "subject": "Chemistry", "questions": 30 },
+      { "subject": "English", "questions": 10 }
+    ],
+    "syllabusLink": "https://pes.edu/pessat"
+  },
+  {
+    "examId": "jee-main",
+    "name": "JEE Main",
+    "conductingBody": "NTA",
+    "level": "National Level",
+    "eligibility": ["Passed 12th with PCM", "75% required for NIT/IIIT"],
+    "subjects": [
+      { "subject": "Mathematics", "questions": 25 },
+      { "subject": "Physics", "questions": 25 },
+      { "subject": "Chemistry", "questions": 25 }
+    ],
+    "syllabusLink": "https://jeemain.nta.nic.in/"
+  },
+  {
+    "examId": "kcet",
+    "name": "KCET",
+    "conductingBody": "KEA",
+    "level": "State Level (Karnataka)",
+    "eligibility": ["Passed 12th with PCM", "Must meet state domicile rules"],
+    "subjects": [
+      { "subject": "Mathematics", "questions": 60 },
+      { "subject": "Physics", "questions": 60 },
+      { "subject": "Chemistry", "questions": 60 }
+    ],
+    "syllabusLink": "https://cetonline.karnataka.gov.in/"
+  }
+]

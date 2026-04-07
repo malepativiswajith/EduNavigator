@@ -1,0 +1,46 @@
+[
+  {
+    "name": "PES University",
+    "location": "Bengaluru, Karnataka",
+    "ranking": 1,
+    "fees": "5 LPA",
+    "image": "https://i.imgur.com/4ZQZ4Qe.jpeg",
+    "acceptedExams": ["PESSAT", "KCET", "JEE Main"],
+    "facilities": ["Library", "Labs", "Hostel", "Sports Complex", "Gym"],
+    "overview": "PES University focuses on quality higher education with an emphasis on both academic and professional development.",
+    "placementData": [
+      { "course": "Computer Science", "averageLPA": 16 },
+      { "course": "Electronics & Communication", "averageLPA": 13 },
+      { "course": "Mechanical Engineering", "averageLPA": 9 },
+      { "course": "Civil Engineering", "averageLPA": 7 }
+    ]
+  },
+  {
+    "name": "Shiv Nadar University",
+    "location": "Delhi NCR",
+    "ranking": 23,
+    "fees": "4 LPA",
+    "image": "https://i.imgur.com/zk7VZKJ.jpeg",
+    "acceptedExams": ["JEE Main", "SNUSAT"],
+    "facilities": ["Library", "Labs", "Hostel", "Cultural Center"],
+    "overview": "Shiv Nadar University is known for interdisciplinary research and holistic education.",
+    "placementData": [
+      { "course": "Computer Science", "averageLPA": 14 },
+      { "course": "Electronics & Communication", "averageLPA": 11 }
+    ]
+  },
+  {
+    "name": "BITS Pilani",
+    "location": "Pilani, Rajasthan",
+    "ranking": 7,
+    "fees": "7 LPA",
+    "image": "https://i.imgur.com/XCbTQBd.png",
+    "acceptedExams": ["BITSAT"],
+    "facilities": ["Library", "Labs", "Innovation Center", "Hostel"],
+    "overview": "BITS Pilani is one of the top engineering institutes in India known for academic excellence and research.",
+    "placementData": [
+      { "course": "Computer Science", "averageLPA": 18 },
+      { "course": "Electronics & Communication", "averageLPA": 15 }
+    ]
+  }
+]
